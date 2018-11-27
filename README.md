@@ -1,1 +1,2 @@
 # fycsexam
+print("Hello world")
